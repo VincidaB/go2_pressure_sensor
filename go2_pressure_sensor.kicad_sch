@@ -1226,6 +1226,16 @@
 		)
 		(uuid "123f73b5-533d-4d0e-af91-6ca6c7167a40")
 	)
+	(bus
+		(pts
+			(xy 213.36 99.06) (xy 215.9 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1284a1b5-7775-48f2-a06a-35a67f81337c")
+	)
 	(wire
 		(pts
 			(xy 134.62 36.83) (xy 134.62 54.61)
@@ -1235,6 +1245,17 @@
 			(type default)
 		)
 		(uuid "1909c16f-9574-41a7-a6b0-49975239bedc")
+	)
+	(bus
+		(pts
+			(xy 213.36 93.98) (xy 215.9 93.98)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 12 44 1)
+		)
+		(uuid "1cd18c36-8c10-4edb-a2d6-68e2f04634da")
 	)
 	(wire
 		(pts
@@ -1246,6 +1267,17 @@
 		)
 		(uuid "1f6af671-baeb-474d-b53e-7865d1b907f3")
 	)
+	(bus
+		(pts
+			(xy 213.36 104.14) (xy 215.9 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "221f89b9-6647-44a0-85dd-a1e28f55b716")
+	)
 	(wire
 		(pts
 			(xy 63.5 86.36) (xy 63.5 77.47)
@@ -1255,6 +1287,16 @@
 			(type default)
 		)
 		(uuid "22d343d3-cb9f-4e84-b935-71b7bc1de203")
+	)
+	(bus
+		(pts
+			(xy 213.36 100.33) (xy 215.9 100.33)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25da66be-60bd-492e-9f30-a86b2f07b06a")
 	)
 	(wire
 		(pts
@@ -1326,6 +1368,17 @@
 		)
 		(uuid "4830da99-05df-4aad-9e00-024435559dd7")
 	)
+	(bus
+		(pts
+			(xy 213.36 106.68) (xy 215.9 106.68)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 12 44 1)
+		)
+		(uuid "4c325352-d5ce-4835-8427-8b4674eac005")
+	)
 	(wire
 		(pts
 			(xy 129.54 76.2) (xy 135.89 76.2)
@@ -1355,6 +1408,17 @@
 			(type default)
 		)
 		(uuid "52cd3fe0-4963-4cfd-bafa-878f44aad265")
+	)
+	(bus
+		(pts
+			(xy 213.36 102.87) (xy 215.9 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "56790e63-08e8-4cbc-b742-79ae7bc268d9")
 	)
 	(wire
 		(pts
@@ -1406,6 +1470,16 @@
 		)
 		(uuid "6fe10c85-f4e6-4fa9-9dee-e70213714315")
 	)
+	(bus
+		(pts
+			(xy 213.36 101.6) (xy 215.9 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "706f69df-3d5b-4f20-92d2-09e46b8c1d69")
+	)
 	(wire
 		(pts
 			(xy 104.14 85.09) (xy 95.25 85.09)
@@ -1445,6 +1519,17 @@
 			(type default)
 		)
 		(uuid "79976d59-b2cd-45eb-8f10-a30b4edce697")
+	)
+	(bus
+		(pts
+			(xy 213.36 92.71) (xy 215.9 92.71)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 12 44 1)
+		)
+		(uuid "851a18dc-b29d-494b-9bad-d95e0eda5c6b")
 	)
 	(wire
 		(pts
@@ -1566,6 +1651,27 @@
 		)
 		(uuid "ac854128-e2f3-493f-8e25-de7be9f1b44c")
 	)
+	(bus
+		(pts
+			(xy 213.36 96.52) (xy 215.9 96.52)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "af5f25e8-b679-43cf-9e06-1c57e6cba5b6")
+	)
+	(bus
+		(pts
+			(xy 213.36 97.79) (xy 215.9 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b579d50b-36ae-4dbc-bf78-27ddfaee506d")
+	)
 	(wire
 		(pts
 			(xy 90.17 44.45) (xy 90.17 43.18)
@@ -1595,6 +1701,28 @@
 			(type default)
 		)
 		(uuid "b9fa1527-b26a-47af-8c14-443e81ed37fa")
+	)
+	(bus
+		(pts
+			(xy 213.36 105.41) (xy 215.9 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 255 12 44 1)
+		)
+		(uuid "c12b7d2a-3b59-4626-a150-c421934652b9")
+	)
+	(bus
+		(pts
+			(xy 213.36 95.25) (xy 215.9 95.25)
+		)
+		(stroke
+			(width 0)
+			(type default)
+			(color 0 0 0 1)
+		)
+		(uuid "c6544d8e-73a6-4f1f-9eaf-ca5f046e9447")
 	)
 	(wire
 		(pts
@@ -1676,6 +1804,78 @@
 		)
 		(uuid "fe18aafb-1e65-4a86-aefd-63b6fd43ab39")
 	)
+	(rectangle
+		(start 189.23 74.93)
+		(end 226.06 127)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 5837abf2-ac06-4636-883c-2348f720ef26)
+	)
+	(circle
+		(center 209.55 111.76)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 60359262-7e14-4786-9d04-8a172389e668)
+	)
+	(circle
+		(center 219.71 88.9)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 6a9b2861-6be9-4e61-b476-f0ece4a496d5)
+	)
+	(circle
+		(center 209.55 88.9)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid acb7a1f1-04bb-418b-95b1-1625d70f98ad)
+	)
+	(circle
+		(center 219.71 111.76)
+		(radius 1.27)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid bf0de0e2-e2cb-4ae0-ae4f-442d0a4110c5)
+	)
+	(rectangle
+		(start 212.09 91.44)
+		(end 217.17 109.22)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid d1d5b900-8d9e-441e-9ff9-0d375223586d)
+	)
 	(text "jst GH connector"
 		(exclude_from_sim no)
 		(at 147.828 84.836 0)
@@ -1685,6 +1885,27 @@
 			)
 		)
 		(uuid "11c75562-7a81-4ffe-ab87-e8fb78443ddf")
+	)
+	(text "GND\nGND"
+		(exclude_from_sim no)
+		(at 218.694 103.632 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "4305d4c0-ef03-419a-88ab-f9f7b092106e")
+	)
+	(text "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n"
+		(exclude_from_sim no)
+		(at 210.566 100.076 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "5d99bb41-70d7-4a62-aa84-68e8e2ea940c")
 	)
 	(text "1mm PCB substrate"
 		(exclude_from_sim no)
@@ -1697,6 +1918,28 @@
 			)
 		)
 		(uuid "7fd02313-8ca3-4104-abc8-3e817ec44ea5")
+	)
+	(text "VBAT+"
+		(exclude_from_sim no)
+		(at 219.456 105.664 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(color 255 40 36 1)
+			)
+		)
+		(uuid "8342b0fd-4143-432c-9bd0-70a8b80a55c7")
+	)
+	(text "VBAT+"
+		(exclude_from_sim no)
+		(at 219.456 92.964 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(color 255 40 36 1)
+			)
+		)
+		(uuid "8e04c833-9530-4bf4-b732-1604913f25a3")
 	)
 	(text "3mm OD, 1mm ID tubing\n"
 		(exclude_from_sim no)
@@ -1719,6 +1962,39 @@
 			)
 		)
 		(uuid "b5aaff13-f56f-4519-94f3-b52b72c700c5")
+	)
+	(text "GND\nGND"
+		(exclude_from_sim no)
+		(at 218.694 96.266 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(color 0 0 0 1)
+			)
+		)
+		(uuid "c1379c6d-f7da-4c3b-b9e9-f0b73a5786d3")
+	)
+	(text "VBAT+"
+		(exclude_from_sim no)
+		(at 219.456 94.234 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(color 255 40 36 1)
+			)
+		)
+		(uuid "ca6030d7-5e25-4ab4-a351-9f90503405b8")
+	)
+	(text "VBAT+"
+		(exclude_from_sim no)
+		(at 219.456 106.934 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+				(color 255 40 36 1)
+			)
+		)
+		(uuid "d418b5d9-9267-44e5-a163-b0148efac40a")
 	)
 	(text "tube from McMaster : https://www.mcmaster.com/products/tubing/tubing~/system-of-measurement~metric/od~3-mm/id~1-000-mm/id~1-mm/material~rubber-1/"
 		(exclude_from_sim no)
@@ -1750,6 +2026,16 @@
 			)
 		)
 		(uuid "f6eefce0-088f-42e0-a5f4-b74f46f1c920")
+	)
+	(text "TX\nRX"
+		(exclude_from_sim no)
+		(at 218.44 98.806 0)
+		(effects
+			(font
+				(size 0.762 0.762)
+			)
+		)
+		(uuid "fd98be5f-e791-4d80-b24f-ed15adbcf836")
 	)
 	(label "VDD"
 		(at 81.28 85.09 180)

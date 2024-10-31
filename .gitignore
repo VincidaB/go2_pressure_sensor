@@ -1,3 +1,6 @@
 '#auto_saved_files#'
 ~*
 *-backups
+*.bak
+fp-info-cache
+

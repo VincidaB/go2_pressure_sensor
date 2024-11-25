@@ -615,8 +615,8 @@
 			(exclude_from_sim no)
 			(in_bom yes)
 			(on_board yes)
-			(property "Reference" "U"
-				(at -5.842 11.176 0)
+			(property "Reference" "U1"
+				(at 0 12.7 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -624,14 +624,14 @@
 				)
 			)
 			(property "Value" "XPGZP6859A"
-				(at -0.508 8.89 0)
+				(at 0 10.16 0)
 				(effects
 					(font
 						(size 1.27 1.27)
 					)
 				)
 			)
-			(property "Footprint" ""
+			(property "Footprint" "Ensmasteel_librairy:XGZ6859 6pin"
 				(at -0.508 6.096 0)
 				(effects
 					(font
@@ -651,6 +651,15 @@
 			)
 			(property "Description" ""
 				(at -0.508 6.096 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "LCSC" "C3038019"
+				(at 0 0 0)
 				(effects
 					(font
 						(size 1.27 1.27)
@@ -762,7 +771,7 @@
 						)
 					)
 				)
-				(pin no_connect line
+				(pin input line
 					(at 10.16 -3.81 180)
 					(length 2.54)
 					(name "GND"
@@ -1807,6 +1816,19 @@
 		)
 		(uuid "4305d4c0-ef03-419a-88ab-f9f7b092106e")
 	)
+	(text "BEFORE ORDERING : \n- Verify connector orientation and pinout\n- Verify PCB thicness\n- Veruify pressure sensor orientation and LDO orientation"
+		(exclude_from_sim no)
+		(at 78.74 166.116 0)
+		(effects
+			(font
+				(size 2.54 2.54)
+				(thickness 0.508)
+				(bold yes)
+				(color 255 146 16 1)
+			)
+		)
+		(uuid "5169763f-df8e-4b38-b7bb-ad5a1cddf90f")
+	)
 	(text "1\n2\n3\n4\n5\n6\n7\n8\n9\n10\n11\n12\n"
 		(exclude_from_sim no)
 		(at 210.566 100.076 0)
@@ -2427,7 +2449,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C5310801"
+		(property "LCSC" "C181526"
 			(at 113.03 77.47 0)
 			(effects
 				(font
@@ -2772,8 +2794,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "90k"
-			(at 74.93 81.534 0)
+		(property "Value" "86.6k"
+			(at 73.406 81.534 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2808,7 +2830,7 @@
 				(hide yes)
 			)
 		)
-		(property "LCSC" "C23129"
+		(property "LCSC" "C3000725"
 			(at 80.01 80.01 0)
 			(effects
 				(font

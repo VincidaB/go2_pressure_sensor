@@ -466,8 +466,8 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "gerber/",
-      "pos_files": "gerber/",
+      "plot": "gerber/v3/",
+      "pos_files": "gerber/v3/",
       "specctra_dsn": "",
       "step": "go2_pressure_sensor.step",
       "svg": "",
@@ -477,7 +477,7 @@
   },
   "schematic": {
     "annotate_start_num": 0,
-    "bom_export_filename": "gerber/go2_pressure_sensor.csv",
+    "bom_export_filename": "/home/vincent/go2_pressure_sensor/go2_pressure_sensor/gerber/v3/go2_pressure_sensor.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
       "field_delimiter": ",",
